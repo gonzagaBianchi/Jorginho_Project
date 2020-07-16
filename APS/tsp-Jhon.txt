@@ -1,0 +1,38 @@
+Base de Dados:
+x = 60, y = 200
+x = 180, y = 200
+x = 80, y = 180
+x = 140, y = 180
+x = 20, y = 160
+x = 100, y = 160
+x = 200, y = 160
+x = 140, y = 140
+x = 40, y = 120
+x = 100, y = 120
+x = 180, y = 100
+x = 60, y = 80
+x = 120, y = 80
+x = 180, y = 60
+x = 20, y = 40
+x = 100, y = 40
+x = 200, y = 40
+x = 20, y = 20
+x = 60, y = 20
+x = 160, y = 20
+
+Experimentos:
+No caso do algorítimo da busca gulosa, os parâmetros passam por um processo de montagem de uma objeto
+de cidades, onde é buscada uma a uma a partir do porto atual a proxima menor distancia. Ate de encontra
+o resultdo dessejado. 
+A maior dificuldade é entender o que o código faz.
+Esse método não encontra a melhor solução possivel.
+
+Análise Comparativa:
+
+
+Sugestões para melhoria dos experimentos:
+Exemplos de códigos, mostrando como funciona as etapas do processo.
+
+Referências bibliográficas:
+https://github.com/pheroh/TSP-GA-PHP
+http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5
